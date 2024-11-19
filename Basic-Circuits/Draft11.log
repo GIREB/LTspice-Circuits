@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\bayra\OneDrive\Documents\LTspice\Draft11.asc
+Start Time: Mon Oct 14 17:49:57 2024
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = modified trap
+Limiting rise time of source v1 to 10
+Limiting fall time of source v1 to 10
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.154 seconds.
+
